@@ -16,5 +16,6 @@
 - Obtendo o endereço da máquina:ifconfig
 - URL para clonar: http://www.facebook.com
 
-## Resultados
+## Resultado 
 
+<img src="clone.png">
