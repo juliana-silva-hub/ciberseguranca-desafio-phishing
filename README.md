@@ -1,20 +1,29 @@
-# Phishing para captura de senhas do Facebook
+# Laboratório Educacional de Phishing
 
-## Ferramentas
+Laboratório realizado em ambiente controlado para estudo de técnicas de phishing e engenharia social.
 
-- KaliLinux
-- Kit de ferramentas
+Objetivo
 
-## Configurando o Phishing no Kali Linux
+Compreender, de forma prática, como ataques de phishing podem ser estruturados e quais elementos podem ser observados durante esse tipo de ataque.
 
-- Acesso raiz: `sudo su`
-- Iniciando o setoolkit: `setoolkit`
-- Tipo de ataque: `Social-Engineering Attacks`
-- Vetor de ataque: `Web Site Attack Vectors`
-- Método de ataque: `Credential Harvester Attack Method` 
-- Método de ataque: `Site Cloner`
-- Obtendo o endereço da máquina: `ifconfig`
-- URL para clonar: `http://www.facebook.com`
+Ambiente
+
+- Kali Linux
+- SEToolkit
+- Ambiente controlado de laboratório
+
+Conteúdos estudados
+
+- Social Engineering
+- Web Site Attack Vectors
+- Credential Harvesting
+- Site Cloning
+
+Observação
+
+Este projeto foi realizado exclusivamente para fins educacionais, em ambiente controlado.
+
+O objetivo do laboratório é compreender a técnica para fins de aprendizado em Segurança da Informação, e não realizar ataques contra terceiros.
 
 ## Resultado 
 
