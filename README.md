@@ -2,6 +2,10 @@
 
 Laboratório realizado em ambiente controlado, em rede local, para estudar como funciona um ataque de phishing e, principalmente, como identificá-lo e preveni-lo.
 
+# ⚠️ Aviso
+
+Este projeto foi realizado exclusivamente para fins educacionais, em ambiente controlado. O objetivo é compreender a técnica para aprendizado em Segurança da Informação, e não realizar ataques contra terceiros.
+
 ## 🎯 Objetivo
 
 Compreender, de forma prática, como uma página falsa é estruturada e quais sinais permitem reconhecê-la.
@@ -51,6 +55,4 @@ Compreender, de forma prática, como uma página falsa é estruturada e quais si
 
 Esse tipo de ataque costuma ser investigado a partir de e-mails reportados, acessos a domínios parecidos com a marca nos logs de DNS e proxy, e envio de credenciais para destinos externos.
 
-## ⚠️ Aviso
-
-Este projeto foi realizado exclusivamente para fins educacionais, em ambiente controlado. O objetivo é compreender a técnica para aprendizado em Segurança da Informação, e não realizar ataques contra terceiros.
+#
