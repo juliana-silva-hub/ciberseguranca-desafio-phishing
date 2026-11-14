@@ -54,6 +54,3 @@ Esse tipo de ataque costuma ser investigado a partir de e-mails reportados, aces
 ## ⚠️ Aviso
 
 Este projeto foi realizado exclusivamente para fins educacionais, em ambiente controlado. O objetivo é compreender a técnica para aprendizado em Segurança da Informação, e não realizar ataques contra terceiros.
-## Resultado 
-
-<img src="clone.png">
